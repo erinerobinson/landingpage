@@ -1,0 +1,78 @@
+
+html {
+    background-color: #FF9933;
+}
+.header img {
+    float: left;
+    width: 75px;
+    height: 75px;;
+}
+
+.header-link {
+   float: right;
+   font-family: "Courier New";
+   font-size: 25px;
+   font-weight:bolder;
+   display: flex;
+   list-style: none;
+}
+
+li a{
+    margin-left: auto;
+    margin-right: 25px;
+    color: #D9D9D9;
+    border: 5px, 5px;
+    text-decoration: none;
+}
+
+li a:hover {
+  background-color: #ff6600;
+  border: #ff6600 solid 3px;
+  border-radius: 15%;
+}
+
+h2 {
+    color: #dfdfdf;
+    background-color: #ffc34d
+    border:#ffc34d solid 10px;
+    position: relative;
+    top: 50px;
+    display: inline-block;
+    font-size: 50px;
+    font-family: "Courier New";
+    
+
+}
+
+div {
+    color: #dfdfdf;
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.section-one img{
+    width: 500px;
+    height: auto;
+    border-radius: 75px;
+    border: #d9d9d9 solid 5px;
+    position: relative;
+    left: 700px; 
+    bottom: 200px;
+    
+}
+
+ul {
+    font-size: 28px;
+    font-family: 'Brush Script MT', cursive;
+    
+}
+
+.section-two h2{
+    color: #dfdfdf;
+    background-color: #ffbb33;
+    border:#ffbb33 solid 10px;
+    font-size: 50px;
+    font-family: "Courier New";
+    width:100%;
+ 
+}
