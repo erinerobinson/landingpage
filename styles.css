@@ -70,9 +70,29 @@ ul {
 .section-two h2{
     color: #dfdfdf;
     background-color: #ffbb33;
-    border:#ffbb33 solid 10px;
+    border:#ffbb33 solid 5px;
     font-size: 50px;
     font-family: "Courier New";
     width:100%;
- 
+    margin-bottom: 0;
+    text-align: center;
+}
+
+
+.section-two img{
+    width: 400px;
+    height: auto;
+    margin-left: 50px;
+    border-radius: 10%;
+    padding-top: 75px;
+
+}
+
+.breeds{
+    background-color: #ffbb33;
+    width: 100%;
+    height: auto;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    align-content: center;
 }
